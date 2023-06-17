@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors - An awesome game
+# Rock-Paper-Scissors with python using pygame
